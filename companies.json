@@ -1,0 +1,107 @@
+[
+    {
+        "id": "0df69381-95cd-4fb5-8bc2-4e6966af1f2f",
+        "name": "Arabic Petrol",
+        "description": "Arabic Petrol is a oil company that makes oil, gas, and other energy."
+    },
+    {
+        "id": "2c3c1a06-dc53-486c-a001-d04c40f02567",
+        "name": "BNevia",
+        "description": "BNevia is a hardware company that makes microchips, desktops, and other devices."
+    },
+    {
+        "id": "6b089c4a-ff07-474b-ad0d-ce950c3029b6",
+        "name": "Nilo",
+        "description": "Nilo is a technology company that makes e-commerce, cloud computing, and other technology."
+    },
+    {
+        "id": "10f3204b-5386-4781-bbc2-ce94e3334214",
+        "name": "Vetra",
+        "description": "Vetra is a financial services company that makes credit cards, debit cards, and other financial products."
+    },
+    {
+        "id": "013ea0f2-d992-4a87-b7f8-2d88c57e4b4e",
+        "name": "Viroxis",
+        "description": "Viroxis group is one of the largest investment managers, pioneering low-cost index funds with a model focused on benefiting its investors."
+    },
+    {
+        "id": "43b3ea76-5889-4810-b7c1-78e58297c1db",
+        "name": "Omnidata",
+        "description": "Omnidata is a technology company that makes software for managing companies."
+    },
+    {
+        "id": "54af07ff-2edb-4bf2-8861-96b95bab0d1c",
+        "name": "Nexxon",
+        "description": "Nexxon mobil is a company that sells oil and gas."
+    },
+    {
+        "id": "77a3cab1-542e-425f-a936-b366b4be68ca",
+        "name": "Softmacro",
+        "description": "Softmacro is a software company that makes operating systems, productivity software, and other software."
+    },
+    {
+        "id": "112f0a56-63bb-40a6-9de3-76ead5391513",
+        "name": "Ella Vee",
+        "description": "Ella Vee and Company is a pharmaceutical company that makes drugs for humans and animals."
+    },
+    {
+        "id": "3101f0cc-6342-4c36-8c76-96c90fdca249",
+        "name": "Pooper",
+        "description": "Pooper is a search engine company that makes a search engine, a browser, and other software."
+    },
+    {
+        "id": "8792bf98-39ed-417a-936c-320ef0062021",
+        "name": "Neosmc",
+        "description": "Tsmc is a semiconductor company that makes chips for other companies."
+    },
+    {
+        "id": "45114cd2-df60-4113-a7e4-21b16dab3235",
+        "name": "CirclePay",
+        "description": "CirclePay is a financial company that makes software for managing companies."
+    },
+    {
+        "id": "454354e4-736d-470a-9b1a-f20513bd117e",
+        "name": "Wellington Hayes Group",
+        "description": "WHG is a financial services company that provides investment banking, asset management, and other financial services."
+    },
+    {
+        "id": "b194e6a7-04b3-4b91-b210-2b0fd739b246",
+        "name": "StarMart",
+        "description": "StarMart is a retail company that sells groceries, clothes, and electronics."
+    },
+    {
+        "id": "cb1ed646-7d13-480d-81c4-2c2989e91c65",
+        "name": "Nexcom",
+        "description": "Nexcom is a software company that makes software for managing companies."
+    },
+    {
+        "id": "d9b414ed-472c-47f5-850f-9df924a9e2ba",
+        "name": "Brentwood & Hollister",
+        "description": "Brentwood & Hollister is a conglomerate that owns many companies."
+    },
+    {
+        "id": "da8f9c9f-b42e-444e-b193-72dccc45493e",
+        "name": "UnityCare",
+        "description": "UnityCare Group is a diversified health and well-being company dedicated to helping people live healthier lives."
+    },
+    {
+        "id": "e272ca9d-7a5c-4fa1-a294-a15d05cf2ff7",
+        "name": "Lemon",
+        "description": "Lemon is a hardware company that makes laptops, desktops, and other devices."
+    },
+    {
+        "id": "e9045ce9-08fd-4471-b660-5061a0442f34",
+        "name": "Nikola",
+        "description": "Nikola is a hardware company that makes electric cars, batteries, and solar panels."
+    },
+    {
+        "id": "eae6dc72-eab7-4a2b-9fa4-9e3bfe2be686",
+        "name": "Verse",
+        "description": "Verse is a social media company that makes social media platforms, messaging apps, and other social media products."
+    },
+    {
+        "id": "f8185f62-a78d-489a-bd46-fc8d58ea105c",
+        "name": "Techence",
+        "description": "Techence is a technology company that makes software for managing companies."
+    }
+]
