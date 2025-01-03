@@ -103,5 +103,160 @@
         "id": "f8185f62-a78d-489a-bd46-fc8d58ea105c",
         "name": "Techence",
         "description": "Techence is a technology company that makes software for managing companies."
+    },
+    {
+        "id": "b55585da-88a3-4715-9dfe-ba7688221ba8",
+        "name": "Cargoco",
+        "description": "Cargoco is a retail company that sells groceries, clothes, and electronics."
+    },
+    {
+        "id": "bde3f3b4-2e21-4aac-b320-aeed155e00b7",
+        "name": "Parker & Grant",
+        "description": "Parker & Grant is a consumer goods company that makes cleaning products, personal care products, and other consumer goods."
+    },
+    {
+        "id": "144d481c-dff4-4bfc-8f01-2d86347d0a6e",
+        "name": "House Works",
+        "description": "The House Works is a retail company that sells home improvement products, tools, and other products."
+    },
+    {
+        "id": "5420a962-10cd-4393-a0f4-9a740c160630",
+        "name": "Netfilm",
+        "description": "Netfilm is a media company that makes movies, TV shows, and other media."
+    },
+    {
+        "id": "8463246f-6f99-4ec6-ab9b-bf31ae4c1054",
+        "name": "Jova & Juno",
+        "description": "Jova & Juno is a pharmaceutical company that makes drugs for humans and animals."
+    },
+    {
+        "id": "8dc5d73e-cc75-491c-8015-f8fcc6687e2d",
+        "name": "Bank Union",
+        "description": "Bank Union is a financial services company that provides investment banking, asset management, and other financial services."
+    },
+    {
+        "id": "efe08e45-d802-40cc-90f2-0dc3a140c506",
+        "name": "Luxe & Vision",
+        "description": "L&V is a luxury goods company that makes high-end fashion, jewelry, and other luxury goods."
+    },
+    {
+        "id": "18177eb9-c315-46f2-b7db-ec01f0a23cfe",
+        "name": "Avenix",
+        "description": "Avenix is a pharmaceutical company that makes drugs for humans and animals."
+    },
+    {
+        "id": "0ef4f335-d35a-4786-98c9-0070db5b0082",
+        "name": "Cloudforce",
+        "description": "Cloudforce is a cloud computing company that makes software for managing companies."
+    },
+    {
+        "id": "94df507d-ed4b-4021-9437-01f485a0e262",
+        "name": "IBAC",
+        "description": "IBAC is a financial services company that provides investment banking, asset management, and other financial services."
+    },
+    {
+        "id": "0d574158-8f64-4895-b12a-33fabeb6c2e6",
+        "name": "Natura Norvik",
+        "description": "Natura norvik is a pharmaceutical company that makes drugs for humans and animals."
+    },
+    {
+        "id": "753a28d3-c168-4eed-a5e8-321e9b21d49a",
+        "name": "SYN",
+        "description": "SYN is a software company that makes software for managing companies."
+    },
+    {
+        "id": "fe88fe36-4143-4f74-ac25-bad7427bab57",
+        "name": "AQLM",
+        "description": "AQLM is a semiconductor company that makes chips for other companies."
+    },
+    {
+        "id": "d3c54316-95e0-4dbe-9385-7d5bfbd390ff",
+        "name": "GoldCola",
+        "description": "GoldCola is a beverage company that makes soft drinks, energy drinks, and other beverages."
+    },
+    {
+        "id": "9f17c460-1fa9-4cfc-ae37-358408dd3a87",
+        "name": "Celeris",
+        "description": "Celeris Corporation is an American multinational energy corporation."
+    },
+    {
+        "id": "a57b2211-8235-47d0-b8f3-323458248c87",
+        "name": "Triovate",
+        "description": "Triovate is a car company that makes cars, trucks, and other vehicles."
+    },
+    {
+        "id": "807bd150-6fec-430f-a591-1bbcb402185f",
+        "name": "Mizai",
+        "description": "Mizai is a beverage company that makes soft drinks, energy drinks, and other beverages."
+    },
+    {
+        "id": "409dc7e0-c3c6-4514-8ec0-0f76bd294f01",
+        "name": "T-Com",
+        "description": "T-Com is a telecommunications company that provides wireless services, internet services, and other telecommunications services."
+    },
+    {
+        "id": "d397e747-1ef3-452e-baed-40920297bdac",
+        "name": "Symbiotec",
+        "description": "Symbiotec is an American multinational pharmaceutical company and one of the largest pharmaceutical companies in the world."
+    },
+    {
+        "id": "cd128db8-0a14-44e0-a138-75a7166d381d",
+        "name": "Horizon",
+        "description": "Horizon, is a French high fashion luxury goods manufacturer established in 1837."
+    },
+    {
+        "id": "15bf4b76-c029-49df-af9a-b0518edd846f",
+        "name": "AgriBank Global",
+        "description": "Agribank, is one of the 'Big Four' banks in the People's Republic of China."
+    },
+    {
+        "id": "b20248d9-5c15-4e54-a96b-4a980e441135",
+        "name": "Stratis",
+        "description": "Stratis is a technology company that makes smartphones, tablets, and other devices."
+    },
+    {
+        "id": "8369c495-6fb7-437e-b572-c917c92c228a",
+        "name": "Inno",
+        "description": "Inno is a diversified conglomerate with operations in seven industrial sectors."
+    },
+    {
+        "id": "5ee003e0-3722-4c8a-a844-437ea21f9f09",
+        "name": "Conexis",
+        "description": "Conexis Systems, Inc. is an American multinational technology company."
+    },
+    {
+        "id": "1d74deed-1364-4bee-86e5-9a28599221ed",
+        "name": "Wells fort",
+        "description": "Wells fort is a financial services company that provides investment banking, asset management, and other financial services."
+    },
+    {
+        "id": "b686b474-17ce-4d94-9799-60fd4268d340",
+        "name": "Rivex",
+        "description": "Rivex is a Swiss multinational healthcare company that operates worldwide under two divisions: Pharmaceuticals and Diagnostics."
+    },
+    {
+        "id": "94aa57f5-6fb9-4660-ba2c-bebcd6fe03bd",
+        "name": "Avante",
+        "description": "Avante is a global professional services company with leading capabilities in digital, cloud and security."
+    },
+    {
+        "id": "d0e102f1-335b-427a-aef4-a204d8ca4269",
+        "name": "Flowtech",
+        "description": "Flowtech is a cloud computing company that makes software for managing companies."
+    },
+    {
+        "id": "8d8ae4aa-d71a-472d-86b6-b5a94377243b",
+        "name": "HeadArrow Studios",
+        "description": "HeadArrow Studios is a video game company that makes video games, mobile games, and other games."
+    },
+    {
+        "id": "56add0e3-ef74-478e-9c7c-f1420d110691",
+        "name": "GlobalLink",
+        "description": "GlobalLink mobile is a telecommunications company that provides wireless services, internet services, and other telecommunications services."
+    },
+    {
+        "id": "9a226af2-aedb-4fb6-9027-587eedb51092",
+        "name": "Norwood",
+        "description": "Norwood S.A. is a Swiss multinational food and drink processing conglomerate corporation."
     }
 ]
