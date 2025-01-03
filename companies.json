@@ -258,5 +258,125 @@
         "id": "9a226af2-aedb-4fb6-9027-587eedb51092",
         "name": "Norwood",
         "description": "Norwood S.A. is a Swiss multinational food and drink processing conglomerate corporation."
+    },
+    {
+        "id": "0ea807be-ff7c-4e67-aff2-3e059ed95c24",
+        "name": "Global express",
+        "description": "Global express is a financial services company that provides investment banking, asset management, and other financial services."
+    },
+    {
+        "id": "cc9ad4cd-ae77-43c3-befa-0a8cbf4c1f8b",
+        "name": "Solaris Energy",
+        "description": "Solaris Energy is a oil company that makes oil, gas, and other energy."
+    },
+    {
+        "id": "a5a3ab81-1933-4202-bee8-54c0816b50ec",
+        "name": "MellowBite",
+        "description": "Mellowbite is a fast food company that makes burgers, fries, and other fast food."
+    },
+    {
+        "id": "adacb635-3ac8-4815-bd63-7c54602f199f",
+        "name": "PuraGlobe",
+        "description": "PuraGlobe is a beverage company that makes soft drinks, energy drinks, and other beverages."
+    },
+    {
+        "id": "b729bfa4-474f-44ec-853a-cb0e78f1793f",
+        "name": "VivaFlow",
+        "description": "VivaFlow is a British-Swedish multinational pharmaceutical and biopharmaceutical company."
+    },
+    {
+        "id": "03f6626d-b437-40fd-9b21-17ac336c5a97",
+        "name": "TMC",
+        "description": "TMC is a technology company that makes software for managing companies."
+    },
+    {
+        "id": "72ac0b5a-0241-4e7c-a65d-0ff5d5ffa7ab",
+        "name": "Triton",
+        "description": "Triton is an American provisioner of scientific instrumentation, reagents and consumables, and software and services to healthcare, life science, and other laboratories in academia, government, and industry."
+    },
+    {
+        "id": "7b52cce5-f4c0-427e-9ada-4654f66b8dad",
+        "name": "Aventa",
+        "description": "Aventa Group Holding Limited, is a Chinese multinational technology company specializing in e-commerce, retail, Internet, and technology."
+    },
+    {
+        "id": "d3400295-9a09-40ac-8fd5-dffc2dc28fda",
+        "name": "ABD",
+        "description": "ABD is an American multinational semiconductor company that develops computer processors and related technologies for business and consumer markets."
+    },
+    {
+        "id": "3bfc83c9-bef7-4786-82c6-bdca3b37f128",
+        "name": "Muxton Systems",
+        "description": "Muxton Systems is an American multinational investment bank and financial services company."
+    },
+    {
+        "id": "dccf3e44-c9e3-4ab2-8249-b8395c9238dd",
+        "name": "Dreamverse",
+        "description": "Dreamverse is a media company that makes movies, TV shows, and other media."
+    },
+    {
+        "id": "f3acd221-680c-49e0-8279-36f933368684",
+        "name": "Avolta laboratories",
+        "description": "Avolta Laboratories is an American multinational medical devices and health care company with headquarters in Abbott Park, Illinois, United States."
+    },
+    {
+        "id": "8d253b80-a09c-4821-a2d9-657be8663838",
+        "name": "Aura industries",
+        "description": "Aura Industries Limited is an Indian multinational conglomerate company."
+    },
+    {
+        "id": "8aa653c1-c11a-4db8-a6b6-ed3604a12f71",
+        "name": "Liora",
+        "description": "Liora is a German multinational chemical company."
+    },
+    {
+        "id": "1ecabfaf-00dc-479e-ba29-cf82be155954",
+        "name": "Focus Bank",
+        "description": "Focus Bank is one of the 'Big Four' banks in the People's Republic of China."
+    },
+    {
+        "id": "7396426a-2e21-40fa-acc0-42d97af8ae85",
+        "name": "Solara",
+        "description": "Solara is a oil company that makes oil, gas, and other energy."
+    },
+    {
+        "id": "0fbc27bb-3aa4-4c73-af33-f0693f06e16c",
+        "name": "Novexa",
+        "description": "Novexa International AG is a Swiss multinational pharmaceutical company based in Basel, Switzerland."
+    },
+    {
+        "id": "a7445f49-6fb5-4e41-97d4-fb82008f988d",
+        "name": "Cirq Bank",
+        "description": "Cirq Bank Corporation is a Chinese multinational banking company."
+    },
+    {
+        "id": "9a197808-7203-412e-8e7b-55b1153f0a93",
+        "name": "RedPoint Surgical",
+        "description": "RedPoint Surgical is an American corporation that develops, manufactures, and markets robotic products designed to improve clinical outcomes of patients through minimally invasive surgery, most notably with the da Vinci Surgical System."
+    },
+    {
+        "id": "26600dd1-34ab-4812-b95f-5aa308adaf2e",
+        "name": "Abode",
+        "description": "Abode Inc. is an American multinational computer software company."
+    },
+    {
+        "id": "30aa5b96-3471-495f-a07a-e9ed580a73b0",
+        "name": "Philip Maxwell",
+        "description": "Philip Maxwell International Inc. is an American multinational cigarette and tobacco manufacturing company, with products sold in over 180 countries outside the United States."
+    },
+    {
+        "id": "dd809b42-60d2-4c6d-a2b0-a019bf592a83",
+        "name": "Gemini Enterprises",
+        "description": "Gemini Enterprises Company is an American multinational conglomerate."
+    },
+    {
+        "id": "bec84b8d-375f-457f-84e5-fb4a5a521db5",
+        "name": "L'Oris",
+        "description": "L'Oris is a French multinational luxury goods conglomerate."
+    },
+    {
+        "id": "7d22b243-31fe-4637-a633-bc24d5b3c622",
+        "name": "Quantirix",
+        "description": "Quantirix Technologies is a public American software company that specializes in big data analytics."
     }
 ]
