@@ -378,5 +378,125 @@
         "id": "7d22b243-31fe-4637-a633-bc24d5b3c622",
         "name": "Quantirix",
         "description": "Quantirix Technologies is a public American software company that specializes in big data analytics."
+    },
+    {
+        "id": "9e7d5cc8-b28d-4cad-b3cb-c532e13b8af7",
+        "name": "Grayson Sterling",
+        "description": "Goldman Sachs is a multinational investment bank and financial services company."
+    },
+    {
+        "id": "22298bea-2675-4a3a-a943-93a94077bd00",
+        "name": "Helix",
+        "description": "Helix Holdings is a British multinational investment bank and financial services holding company."
+    },
+    {
+        "id": "744bc757-1905-4100-b7e4-9e817666559c",
+        "name": "Insyte",
+        "description": "Insyte Inc. is an American business and financial software company that develops and sells financial, accounting, and tax preparation software and related services for small businesses, accountants, and individuals."
+    },
+    {
+        "id": "a40694fe-aaf8-488f-a5a9-8f3431a5a03f",
+        "name": "Capstone",
+        "description": "Capstone Inc. is an American Fortune 100 corporation that designs, develops, engineers, manufactures, markets, and sells machinery, engines, financial products, and insurance to customers via a worldwide dealer network."
+    },
+    {
+        "id": "ac6402f5-7020-4e89-b953-d14028da9706",
+        "name": "Quantis",
+        "description": "Quantis is an American multinational corporation headquartered in San Diego, California, and incorporated in Delaware. It creates semiconductors, software, and services related to wireless technology."
+    },
+    {
+        "id": "93862e59-c804-4e96-bf19-9f58413cf1bd",
+        "name": "Texas Semiconductors",
+        "description": "Texas Semiconductors is a semiconductor company that makes chips for other companies."
+    },
+    {
+        "id": "f86a3880-377f-4da2-8de9-386305e52d56",
+        "name": "TC",
+        "description": "TC is a conglomerate that owns many companies."
+    },
+    {
+        "id": "6c723bb9-2fa9-46e0-aa77-84aec93cdeae",
+        "name": "Proxima",
+        "description": "Proxima is a global consumer internet group and one of the largest technology investors in the world."
+    },
+    {
+        "id": "9c3c18f7-6d94-4e50-8cc7-2d3dddaacb88",
+        "name": "Vero",
+        "description": "Vero is a telecommunications company that provides wireless services, internet services, and other telecommunications services."
+    },
+    {
+        "id": "ecc16c84-7b48-42cd-b7f7-d61df03dd197",
+        "name": "Riviera Bancorp",
+        "description": "Riviera Bancorp is a Canadian multinational financial services company and the largest bank in Canada by market capitalization."
+    },
+    {
+        "id": "60e15104-34f0-41c8-b018-7c23e2535e49",
+        "name": "Fluxion",
+        "description": "Fluxion is a global science and technology innovator committed to helping customers solve complex challenges and improving quality of life around the world."
+    },
+    {
+        "id": "6db8b6ea-9f5b-4c4a-a2c6-6cb5a4cb41f5c",
+        "name": "Globenet",
+        "description": "Globenet is an American multinational conglomerate holding company."
+    },
+    {
+        "id": "daefde86-71f5-4427-937f-01409b4b63b0",
+        "name": "Booker",
+        "description": "Booker is a travel company that makes travel booking software, travel guides, and other travel products."
+    },
+    {
+        "id": "8b643961-a497-4700-a360-7f9db0ed44e5",
+        "name": "Index",
+        "description": "Index is a Spanish multinational clothing company."
+    },
+    {
+        "id": "0510ca25-5ff0-4ecb-8481-013a40c52827",
+        "name": "Golden Bank",
+        "description": "Golden Bank is an Australian multinational bank with businesses across New Zealand, Asia, the United States and the United Kingdom."
+    },
+    {
+        "id": "1c6b5818-b864-4f47-91e7-c9267b0e7d8b",
+        "name": "Fortress Bank",
+        "description": "Fortress Bank is an Indian multinational banking and financial services company."
+    },
+    {
+        "id": "bafcdd46-1ca5-42b0-8029-a98c442c22c6",
+        "name": "BridgeStone",
+        "description": "BridgeStone is an American multinational investment management corporation based in New York City."
+    },
+    {
+        "id": "34cc5349-099a-4850-886e-56c0cc1c530a",
+        "name": "TACL",
+        "description": "TACL is a Chinese multinational technology company specializing in e-commerce, retail, Internet, and technology."
+    },
+    {
+        "id": "5569b0fb-0a06-4197-a8d9-9624800c700c",
+        "name": "Ravion Technologies",
+        "description": "Ravion Technologies is an American multinational conglomerate."
+    },
+    {
+        "id": "29888c24-9342-4bc9-9bc0-5d7a1452ba35",
+        "name": "Pharmex",
+        "description": "Pharmex is an American multinational pharmaceutical corporation."
+    },
+    {
+        "id": "b805d67d-259c-45d7-bb09-217ec88d5a9d",
+        "name": "Simetron",
+        "description": "Simetron is a German multinational conglomerate company headquartered in Munich and the largest industrial manufacturing company in Europe with branch offices abroad."
+    },
+    {
+        "id": "76b1da2b-a865-4819-84ae-06ac401ef797",
+        "name": "Comnet",
+        "description": "Comnet is a telecommunications company that provides wireless services, internet services, and other telecommunications services."
+    },
+    {
+        "id": "e9a6099b-913a-47ff-8c78-6bec67cafb02",
+        "name": "Shopitex",
+        "description": "Shoopify is a technology company that makes e-commerce, cloud computing, and other technology."
+    },
+    {
+        "id": "d172d2ec-e752-4f14-bbbd-30dfe618853e",
+        "name": "Brenix",
+        "description": "Brenix is an American multinational corporation that designs, manufactures, and sells airplanes, rotorcraft, rockets, satellites, telecommunications equipment, and missiles worldwide."
     }
 ]
